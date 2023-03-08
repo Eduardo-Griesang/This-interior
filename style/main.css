@@ -1,0 +1,9 @@
+:root{
+    --dark-gray : #181719;
+    --white : #FFFFFF;
+    --gray : #A9A9A9;
+}
+
+html{
+    background: var(--dark-gray);
+}
